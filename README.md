@@ -3,4 +3,5 @@
 ---
 Same exmaple with [Vue JS](https://github.com/RagazziMoscow/HotelsSearch-Vue)
 ---
-### gh-pages: [https://ragazzimoscow.github.io/HotelsSearch/](https://ragazzimoscow.github.io/HotelsSearch/)
+### gh-pages:
+[https://ragazzimoscow.github.io/HotelsSearch/](https://ragazzimoscow.github.io/HotelsSearch/)
